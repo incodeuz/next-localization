@@ -1,21 +1,13 @@
 ## Next js da Localization | Til o'zgartirish
- 
 
 ```
 npm install next-18next react-i18next i18next
 ```
 
-Frontend bo'yicha yanada ko'proq malumotlar 👉 [@incodeuz](https://t.me/incodeuz) 
+Frontend bo'yicha yanada ko'proq malumotlar 👉 [@incodeuz](https://t.me/incodeuz)
 
 ## Maqalolalar
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- [💥 Frontend dasturchilari uchun Top-12 ta tekin API](https://teletype.in/@incodeuz/free-api) - batafsil o'qish
+- [💫 ReactJS da amaliyot qilish uchun eng yaxshi 5 mini loyiha:](https://teletype.in/@incodeuz/react-loyihalar) - batafsil o'qish
+- [⚡️Chat GPT dan Junior React dasturchilari uchun maslahat:](https://teletype.in/@incodeuz/junior-react) - batafsil o'qish
