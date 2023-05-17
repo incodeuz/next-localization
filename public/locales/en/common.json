@@ -1,0 +1,13 @@
+{
+  "navbar": {
+    "title1": "Main",
+    "title2": "About",
+    "title3": "Settings",
+    "title4": "Contacts"
+  },
+  "main": {
+    "hero": {
+      "title": "Hello"
+    }
+  }
+}
